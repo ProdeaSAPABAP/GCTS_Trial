@@ -1,0 +1,14 @@
+{
+  "name": "prodeasapabap-gcts_trial",
+  "version": "1.0.0",
+  "description": "ProdeaSAPABAP-GCTS_Trial",
+  "repositoryLayout": {
+    "formatVersion": 5,
+    "format": "json",
+    "objectStorage": "plain",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false"
+  }
+}

@@ -1,0 +1,65 @@
+[
+ {
+  "table":"SMBC_CONFIG",
+  "data":
+  [
+   {
+    "TECHNICAL_ID":"/PROD/GCTS_A_001",
+    "SERVICE_BINDING":"/PROD/GCTS_UI_001_O4",
+    "SERVICE_NAME":"/PROD/GCTS_UI_001_O4",
+    "SERVICE_VERSION":1,
+    "ROOT_ENTITY":"GctsTableAll",
+    "ABAP_LANGUAGE_VERSION":"5",
+    "SKIP_ROOT_ENTITY":"X",
+    "APP_CONFIGURATION":"{\"LIST_REPORT\":{\"INITIAL_LOAD\":\"\",\"VARIANT_MANAGEMENT\":\"\",\"TYPE\":\"\",\"CONDENSED_TABLE_LAYOUT\":false,\"PERSONALIZATION\":{\"HIDE_FILTER\":false,\"HIDE_SORT\":false,\"HIDE_COLUMN\":false}},\"OBJECT_PAGES\":[{\"ENTITY\":\"GctsTable\",\"EDITABLE_HEADER_CONTENT\":false,\"SHOW_TRANSPORT_SELECTION_STRIP\":false,\"SECTIONLAYOUT\":\"\",\"CONDENSED_TABLE_LAYOUT\":false,\"DISABLE_PASTE\":false,\"ENABLE_FULL_SCREEN\":false,\"TYPE\":\"GridTable\",\"PERSONALIZATION\":{\"HIDE_FILTER\":false,\"HIDE_SORT\":false,\"HIDE_COLUMN\":false},\"CREATION_MODE\":{\"NAME\":\"InlineCreationRows\",\"CREATE_AT_END\":true},\"SELECTION_MODE\":\"Single\",\"SELECT_ALL\":true,\"VARIANT_MANAGEMENT\":\"\",\"ROW_COUNT_MODE\":\"Auto\",\"ROW_COUNT\":5,\"FROZEN_COLUMN_COUNT\":1,\"WIDTH_INCLUDING_COLUMN_HEADER\":true,\"ENABLE_MASS_EDIT\":false},{\"ENTITY\":\"GctsTableAll\",\"EDITABLE_HEADER_CONTENT\":false,\"SHOW_TRANSPORT_SELECTION_STRIP\":false,\"SECTIONLAYOUT\":\"Page\",\"CONDENSED_TABLE_LAYOUT\":false,\"DISABLE_PASTE\":false,\"ENABLE_FULL_SCREEN\":false,\"TYPE\":\"\",\"PERSONALIZATION\":{\"HIDE_FILTER\":false,\"HIDE_SORT\":false,\"HIDE_COLUMN\":false},\"CREATION_MODE\":{\"NAME\":\"\",\"CREATE_AT_END\":false},\"SELECTION_MODE\":\"\",\"SELECT_ALL\":false,\"VARIANT_MANAGEMENT\":\"Control\",\"ROW_COUNT_MODE\":\"\",\"ROW_COUNT\":0,\"FROZEN_COLUMN_COUNT\":0,\"WIDTH_INCLUDING_COLUMN_HEADER\":false,\"ENABLE_MASS_EDIT\":false}]}",
+    "CHANGED_AT":"+020250424133455",
+    "CHANGED_BY":"SAP_CUSTOMER",
+    "CREATED_AT":"+020250424133455",
+    "CREATED_BY":"SAP_CUSTOMER",
+    "BC_GROUP":""
+   }
+  ]
+ },
+ {
+  "table":"SMBC_CONFIG_TEXT",
+  "data":
+  [
+   {
+    "LANGUAGE":"E",
+    "TECHNICAL_ID":"/PROD/GCTS_A_001",
+    "DESCRIPTION":"Maintain Gcts Table",
+    "NAME":"Gcts Table"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"SMBC",
+    "OBJ_NAME":"/PROD/GCTS_A_001",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SAP_CUSTOMER",
+    "SRCDEP":"",
+    "DEVCLASS":"/PROD/GCTS_TEST_01",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" L",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2025-04-24",
+    "CHECK_DATE":"2025-04-24",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]
